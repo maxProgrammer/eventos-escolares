@@ -1,2 +1,2 @@
 # eventos-escolares
-REST API utilizada para criar eventos escolares
+REST API utilizada para criar eventos escolares.  Este MicroService é responsável por realizar um CRUD simples dos cursos de uma faculdade. Foram utilizados os projetos SpringBoot para a automatização da configuração do servidor, Maven para o gerenciamento de dependências,  WEB/MVC para a construção da API WEB, PostgresSQl driver para realizar a conexão com o banco de dados, Spring Data JPA para realizar a persistência na base de dados e Validation para realizar a validação dos dados de entrada do JSON.
