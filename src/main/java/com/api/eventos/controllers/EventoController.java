@@ -41,7 +41,7 @@ public class EventoController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Object> getOneParkingSpot(@PathVariable(value= "id") UUID id){
+    public ResponseEntity<Object> getOneEvento(@PathVariable(value= "id") UUID id){
         Optional<EventoModel> eventoModelOptional = eventoService.findById(id);
         if(!eventoModelOptional.isPresent()){
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Event not found.");
