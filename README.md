@@ -36,6 +36,8 @@ Rotes PUT,DELETE and GET byID return event not found case id does not exist on t
 + Spring Boot DevTools
 + Validation
 + PostgreSQL Driver
++ Lombok
++ Swagger UI
 
 ## 🪖 Patterns
 + MVC
