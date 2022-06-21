@@ -2,7 +2,7 @@
 
 > Status: Completed ✅
 
-### It's a REST API responsible for controlling the parking spot of an apartment condominium.
+### It's a REST API responsible to create school events
 
 <h1 align="center">
   <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/167319984-3d893f26-3c98-45d9-af6f-3de3105b905f.png"/>
